@@ -1,0 +1,12 @@
+.pokedex{
+    text-align: center;
+}
+
+.pokedex h1{
+    color: gray;
+}
+
+.pokedex ul{
+    display: flex;
+    justify-content: space-around;
+}
